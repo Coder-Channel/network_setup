@@ -1,6 +1,6 @@
 # Network Setup
+```
 Usage: ./network_setup.sh [OPTIONS]
-
 Configure default network interface
 
 OPTIONS
@@ -10,3 +10,4 @@ OPTIONS
   -h	show list of command line options
 
 Running the command without any options will show current configuration without any changes
+```
