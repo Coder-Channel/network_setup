@@ -1,5 +1,6 @@
 # Network Setup
 Usage: ./network_setup.sh [OPTIONS]
+
 Configure default network interface
 
 OPTIONS
